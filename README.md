@@ -8,6 +8,16 @@ Master Tracker App is a Microsoft Power Platform canvas app concept for bringing
 
 The project demonstrates low-code application design, Power Fx formulas, workflow integration, and structured operational data management.
 
+## Screenshots
+
+*All screenshots use synthetic demo data.*
+
+### Task dashboard
+![Task dashboard with status filter](docs/screenshots/dashboard.png)
+
+### Edit form
+![Edit requisition form](docs/screenshots/edit-form.png)
+
 ## Business problem
 
 Recruitment workflows often span several lists or spreadsheets: requisitions, interviews, internal offers, external offers, and follow-up actions. The app provides a unified interface to browse these records, filter tasks by status, and navigate to the relevant work area.
