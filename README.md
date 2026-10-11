@@ -23,7 +23,7 @@ Recruitment workflows often span several lists or spreadsheets: requisitions, in
 ## App areas identified in the exported app source
 
 - Main task dashboard
-- Requisitions: L1–L11, LG, and FOBO
+- Requisitions by level
 - Interviews
 - Internal offers
 - External offers
@@ -83,5 +83,3 @@ This diagram describes the integration pattern. It does not contain production c
 ## Portfolio statement (draft)
 
 Designed a Microsoft Power Platform-based recruitment tracking workspace using Power Apps, Power Automate, and Excel Online (Business). Built a multi-screen canvas app for navigating requisitions, interviews, offers, and task statuses; used Power Fx for filtering, validation, navigation, and flow invocation; and integrated workflow automation for record operations.
-
-> Before using this statement, confirm which workflows are fully implemented and operational in the version you intend to present.
